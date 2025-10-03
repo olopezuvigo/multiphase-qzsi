@@ -49,4 +49,4 @@ The key feature is **modularity**. By connecting multiple leg boards to the cent
 
 1. Clone this repository:
    ```sh
-   git clone [https://github.com/olopezuvigo/multiphase-qzsi.git](https://github.com/olopezuvigo/multiphase-qzsi.git)
+   git clone https://github.com/olopezuvigo/multiphase-qzsi.git
