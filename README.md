@@ -50,3 +50,6 @@ The key feature is **modularity**. By connecting multiple leg boards to the cent
 1. Clone this repository:
    ```sh
    git clone https://github.com/olopezuvigo/multiphase-qzsi.git
+
+## References
+[1] Óscar López Sánchez. (2025). olopezuvigo/multiphase-qzsi: v1.2 (v1.2). Zenodo. [doi: 10.5281/zenodo.17264291](https://doi.org/10.5281/zenodo.17264291)
